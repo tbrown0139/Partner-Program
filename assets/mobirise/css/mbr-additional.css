@@ -730,37 +730,38 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sCZmSnujWH {
-  background-image: url("../../../assets/images/gradienta-leg68prxa6y-unsplash.jpg");
+.cid-sPIZars7NZ {
+  background-image: linear-gradient(135deg, #bed3f9 10%, #4479d9 100%) !important;
 }
-.cid-sCZnDVyA4N {
-  background-image: url("../../../assets/images/gradienta-bkesvqfxass-unsplash.jpg");
+.cid-sPIZars7NZ .mbr-section-subtitle {
+  text-align: center;
 }
-.cid-sCZnDVyA4N .card-wrapper {
-  background: #ffffff;
-  border-radius: 4px;
+.cid-sPKe30xHyD {
+  background-image: linear-gradient(135deg, #ffb5b5 10%, #e43f3f 100%) !important;
 }
-@media (max-width: 767px) {
-  .cid-sCZnDVyA4N .card-wrapper {
-    padding: 1rem;
-  }
+.cid-sPKe30xHyD .mbr-section-title {
+  text-align: right;
 }
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-sCZnDVyA4N .card-wrapper {
-    padding: 2rem;
-  }
+.cid-sPKe30xHyD .mbr-section-subtitle {
+  text-align: right;
 }
-@media (min-width: 992px) {
-  .cid-sCZnDVyA4N .card-wrapper {
-    padding: 4rem;
-  }
+.cid-sPKe30xHyD .mbr-text,
+.cid-sPKe30xHyD .mbr-section-btn {
+  text-align: right;
 }
-.cid-sCZokWzte3 {
-  background-image: url("../../../assets/images/richard-horvath-cpccybprf-a-unsplash.jpg");
+.cid-sP68pNnj58 {
+  background-color: #ffffff;
 }
-.cid-sD1CcSNNpF {
-  background-image: url("../../../assets/images/luke-chesser-pjadqetztki-unsplash.jpeg");
+.cid-sP68pNnj58 .mbr-section-title {
+  color: #ff6666;
 }
-.cid-sD659aLVER {
-  background-image: url("../../../assets/images/luke-chesser-pjadqetztki-unsplash.jpeg");
+.cid-sP68pNnj58 .mbr-section-subtitle {
+  color: #000000;
+  text-align: center;
+}
+.cid-sPKeyxALUD {
+  background-image: linear-gradient(135deg, #bed3f9 10%, #4479d9 100%) !important;
+}
+.cid-sPcqyI8MUg {
+  background-image: url("../../../assets/images/tal-molcho-lemhqdc0qaq-unsplash-2000x1333.jpg");
 }
